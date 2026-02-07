@@ -1,49 +1,57 @@
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p> -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=Prajwal%20Gopal%20Poojary&fontSize=40&fontAlignY=40&animation=twinkling&theme=dark" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Prajwal%20Gopal&fontSize=80&animation=fadeIn&fontColor=ffffff&theme=dark" width="100%" />
 
-  ### 🚀 Generative AI Engineer | Python Developer | Linux Enthusiast
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
+  <p align="center">
+    <samp>
+      「 <b>GEN-AI ENGINEER</b> in the making 」<br>
+      <b>Fedora Power-User</b> • Python Architect • Dark Mode Addict
+    </samp>
+  </p>
+
+  <p align="center">
+    <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### ⚡ About Me
-- 🔭 **Focus**: Building intelligent workflows and GenAI applications.
-- 💻 **OS**: Proudly using **Fedora Linux** with a macOS-inspired aesthetic.
-- 🛠️ **Learning**: Deep diving into LLMs and advanced Python automation.
-- ⏰ **Availability**: Currently in the office from **9 AM - 7 PM**, then coding until **11 PM**.
+### 🌌 The Lab
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <b>Current Status:</b> 👨‍💻 Building AI Agents<br>
+        <b>Operating System:</b> 🐧 Fedora (macOSized)<br>
+        <b>Grind Time:</b> 05:00 - 23:00
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff00ad" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fedora,docker,git,github,vscode,linux,bash&perline=10" />
 </p>
 
 ---
 
-### 📊 My GitHub Metrics
+### 📈 Kinetic Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=dark&hide_border=true" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" alt="General Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=radical&hide_border=true&stroke=ff00ad" width="48%" />
+  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=ff00ad" width="48%" />
 </p>
 
 ---
+
+### 🕹️ Git Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalGpy&theme=react-dark&bg_color=0D1117&hide_border=true&color=ff00ad" width="100%" />
+</p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </div>
