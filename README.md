@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=00E5FF&text=PRAJWAL%20GOPAL&fontSize=80&desc=GENERATIVE%20AI%20ENGINEER&descSize=20&descAlignY=75&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=PRAJWAL+GOPAL;GENERATIVE+AI+ENGINEER" alt="Typing SVG" />
 
   <p align="center">
     <samp>
@@ -26,7 +26,7 @@
         <b>Grind Time:</b> 05:00 - 23:00
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF" />
+        <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&hide_icons=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
       </td>
     </tr>
   </table>
@@ -42,7 +42,7 @@
 ### 📈 Performance Metrics
 <p align="center">
   <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=tokyonight&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="48%" />
-  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&ring_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&hide_icons=true&hide_border=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" width="48%" />
 </p>
 
 ---
