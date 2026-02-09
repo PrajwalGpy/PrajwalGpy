@@ -9,8 +9,8 @@
 </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/prajwalgopalpoojary/"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+    <a href="mailto:prajwalgpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   </p>
 </div>
 
