@@ -43,3 +43,9 @@ graph TD
   style C fill:#0D1117,stroke:#BD00FF,stroke-width:4px,color:#fff
   style D fill:#0D1117,stroke:#00E5FF,stroke-width:2px,color:#fff
   style E fill:#0D1117,stroke:#238636,stroke-width:2px,color:#fff
+```
+<h3 align="left">🏙️ Contribution Topology</h3> <img src="https://www.google.com/search?q=https://github.com/PrajwalGpy/PrajwalGpy/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0D1117%26height%3D100%26section%3Dfooter%26text%3DEnd%2520of%2520Line%26fontSize%3D20%26fontColor%3D238636%26animation%3DfadeIn" width="100%" />
+
+</div>
