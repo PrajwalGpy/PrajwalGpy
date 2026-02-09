@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=PRAJWAL+GOPAL;GENERATIVE+AI+ENGINEER" alt="Typing SVG" width="100%" />
 
   <p align="center">
-    <samp>
-      「 <b>GEN-AI ENGINEER</b> in the making 」<br>
-      <b>Fedora Power-User</b> • Python Architect • Dark Mode Addict
-    </samp>
-  </p>
+  <samp>
+    <b>Generative AI Engineer</b> | LLM & Agent Development<br>
+    <b>Python & Fedora Linux</b> | PyTorch • Docker • Bash
+  </samp>
+</p>
 
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
