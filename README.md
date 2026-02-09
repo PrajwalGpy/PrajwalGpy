@@ -1,43 +1,59 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=00E5FF&text=PRAJWAL%20GOPAL&fontSize=80&desc=GENERATIVE%20AI%20ENGINEER&descSize=20&descAlignY=75&animation=twinkling" width="100%" />
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=250&section=header&text=Prajwal%20Gopal&fontSize=80&fontColor=00E5FF&animation=fadeIn&desc=Generative%20AI%20Engineer&descSize=20&descColor=E6EDF3)
+  <p align="center">
+    <samp>
+      「 <b>GEN-AI ENGINEER</b> in the making 」<br>
+      <b>Fedora Power-User</b> • Python Architect • Dark Mode Addict
+    </samp>
+  </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=500&height=100&lines=[prajwal@fedora+~]$+neofetch;OS:+Fedora+Linux+41;Uptime:+Infinite;[prajwal@fedora+~]$+python3+train_model.py;System+Status:+READY_FOR_INFERENCE" alt="Typing SVG" />
-</a>
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=PrajwalGpy&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=BD00FF&text_color=E6EDF3&bg_color=0D1117&hide=issues&count_private=true" height="180" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalGpy&theme=dark&background=0D1117&border=0D1117&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF&hide_border=true" height="180" alt="streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&title_color=00E5FF&text_color=E6EDF3&bg_color=0D1117&icon_color=BD00FF" height="180" alt="langs" />
-
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  </p>
 </div>
 
-### Neural Stack
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,pytorch,tensorflow,opencv,wandb,docker,kubernetes,fastapi,gcp,aws,fedora,linux,bash,vim,git,vscode&theme=dark&perline=15" />
+### ⚡ The Lab Interface
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="left">
+        <b>Current Status:</b> 👨‍💻 Building AI Agents<br>
+        <b>Operating System:</b> 🐧 Fedora (macOSized)<br>
+        <b>Grind Time:</b> 05:00 - 23:00
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+### 🛠️ Tech Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fedora,docker,git,github,vscode,linux,bash&theme=dark" />
+</p>
 
-### Featured Projects
+---
+
+### 📈 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=tokyonight&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="48%" />
+  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&ring_color=00E5FF" width="48%" />
+</p>
+
+---
+
+### 🕹️ Neural Contribution Wave
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalGpy&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" width="100%" />
+</p>
 
 <div align="center">
-<a href="https://github.com/PrajwalGpy/python-start">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwalGpy&repo=python-start&title_color=00E5FF&icon_color=BD00FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" />
-</a>
-</div>
-
-<br/>
-
-### Contribution Topology
-
-<div align="center">
-  <img src="https://github.com/PrajwalGpy/PrajwalGpy/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=100&section=footer&text=End%20of%20Line&fontSize=20&fontColor=238636&animation=fadeIn" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PrajwalGpy&color=00E5FF&style=plastic&label=CYBER_PULSE_VIEWS" />
 </div>
