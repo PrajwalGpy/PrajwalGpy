@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=PRAJWAL+POOJARY;GENERATIVE+AI+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=PRAJWAL+GOPAL;GENERATIVE+AI+ENGINEER" alt="Typing SVG" width="100%" />
 
   <p align="center">
     <samp>
@@ -16,44 +16,51 @@
 
 ---
 
-###  The Lab Interface
+### System Diagnostics
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="left">
-        <b>Current Status:</b>  Building AI Agents<br>
-        <b>Operating System:</b>  Fedora (macOSized)<br>
-        <b>Grind Time:</b> 05:00 - 23:00
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&hide_icons=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api/top-langs/?username=PrajwalGpy&layout=compact&hide_border=true&hide_icons=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="400px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr style="border: none;">
+      <td width="100%" align="center" style="border: none;">
+        <samp>
+          <b>STATUS:</b> Building AI Agents | 
+          <b>OS:</b> Fedora | 
+          <b>UPTIME:</b> 05:00 - 23:00
+        </samp>
       </td>
     </tr>
   </table>
 </div>
 
-###  Tech Arsenal
-<p align="left">
+---
+
+### Tech Arsenal
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fedora,docker,git,github,vscode,linux,bash&theme=dark" />
 </p>
 
 ---
 
-###  Performance Metrics
+### Performance Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=tokyonight&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="48%" />
-  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&hide_icons=true&hide_border=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" width="48%" />
+  <img src="https://github-readme-streak-stats-rho-ashy.vercel.app?user=PrajwalGpy&theme=tokyonight&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="48%" min-width="300px" />
+  <img src="https://github-readme-stats-swart-seven-56.vercel.app/api?username=PrajwalGpy&hide_icons=true&hide_border=true&hide_title_indent=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" width="48%" min-width="300px" />
 </p>
 
 ---
 
-###  Neural Contribution Wave
+### Neural Contribution Wave
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalGpy&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=PrajwalGpy&color=00E5FF&style=plastic&label=CYBER_PULSE_VIEWS" />
 </div>
